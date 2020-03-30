@@ -1,4 +1,4 @@
-# Openprocessing scraper
+# Deprecated! Openprocessing scraper
 
 ## Download all sketches from [openprocessing.org](https://www.openprocessing.org/)
 
